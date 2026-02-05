@@ -16,7 +16,7 @@
 .formacao-container::after {
   content: "";
   display: block;
-  background: url(/img/detalhe.svg) no-repeat center;
+  background: url(../img/detalhe.svg) no-repeat center;
   position: absolute;
   width: 130px;
   height: 100px;
@@ -106,7 +106,7 @@
   content: "";
   width: 24px;
   height: 24px;
-  background: url(/img/cursos.svg) no-repeat center center;
+  background: url(../img/cursos.svg) no-repeat center center;
   position: absolute;
   left: -36px;
   top: -2px;
@@ -118,7 +118,7 @@
   content: "";
   width: 24px;
   height: 24px;
-  background: url(/img/idiomas.svg) no-repeat center center;
+  background: url(../img/idiomas.svg) no-repeat center center;
   position: absolute;
   left: -36px;
   top: -2px;
